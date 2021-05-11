@@ -14,14 +14,14 @@ A web app to assist students in UM-SJTU JI to search courses, select courses and
 ### Installing packages
 ```
 git clone https://github.com/karumo10/coursesel-helper.git
-cd my-app
+cd react-app
 npm install
 ```
 Waiting for installing. Then use
 ```
 npm start
 ```
-to run the project on localhost. For more script supported, please view [the README offered by create-react-app](./my-app/README.md).
+to run the project on localhost. For more script supported, please view [the README offered by create-react-app](./react-app/README.md).
 
 ## License
 MIT
