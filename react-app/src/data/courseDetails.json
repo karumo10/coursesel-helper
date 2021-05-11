@@ -1,0 +1,2178 @@
+{
+    "VG100": {
+        "ID": "VG100",
+        "CourseName": "Introduction to Engineering",
+        "Instructor": "Shane Miguel Johnson",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=73"
+    },
+    "VM020": {
+        "ID": "VM020",
+        "CourseName": "Machineshop Training",
+        "Instructor": "",
+        "Credit": "1",
+        "Pre-requisite": "none",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=250"
+    },
+    "VP140": {
+        "ID": "VP140",
+        "CourseName": "Physics I",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Calculus I or equivalent training from high school",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=221"
+    },
+    "VR123": {
+        "ID": "VR123",
+        "CourseName": "Novel into Film",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=226"
+    },
+    "VV115": {
+        "ID": "VV115",
+        "CourseName": "Calculus I",
+        "Instructor": "Zachiri McKenzie",
+        "Credit": "4",
+        "Pre-requisite": "3-4 years high school math including trigonometry",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=230"
+    },
+    "VY100": {
+        "ID": "VY100",
+        "CourseName": "Academic Writing I",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=234"
+    },
+    "VZ102": {
+        "ID": "VZ102",
+        "CourseName": "Introduction to Chinese Culture",
+        "Instructor": "",
+        "Credit": "2",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=235"
+    },
+    "VC209": {
+        "ID": "VC209",
+        "CourseName": "Chemistry",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "High school Chemistry, 3 years high school Math.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=237"
+    },
+    "VE203": {
+        "ID": "VE203",
+        "CourseName": "Discrete Mathematics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv156 or Vv186.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=241"
+    },
+    "VK242": {
+        "ID": "VK242",
+        "CourseName": "Physics of Materials",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vp 240 and preceded or accompanied by Vv 216/256/286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=248"
+    },
+    "VM211": {
+        "ID": "VM211",
+        "CourseName": "Introduction to Solid Mechanics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vp 140 or Vp 160 and Vv 156 or Vv 186",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=251"
+    },
+    "VP240": {
+        "ID": "VP240",
+        "CourseName": "Physics II",
+        "Instructor": "",
+        "Credit": "N",
+        "Pre-requisite": "Vp140 or Vp160",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=255"
+    },
+    "VR202": {
+        "ID": "VR202",
+        "CourseName": "Introduction to Philosophy",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Sophomore or above, or instructor\u2019s permission",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=258"
+    },
+    "VV214": {
+        "ID": "VV214",
+        "CourseName": "Linear Algebra",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "none",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=281"
+    },
+    "VY200": {
+        "ID": "VY200",
+        "CourseName": "Academic Writing II",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100 Academic Writing I",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=288"
+    },
+    "VZ200": {
+        "ID": "VZ200",
+        "CourseName": "Comprehensive Chinese II",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=291"
+    },
+    "VE300": {
+        "ID": "VE300",
+        "CourseName": "Technical Communication for Electrical and Computer Engineering",
+        "Instructor": "",
+        "Credit": "1",
+        "Pre-requisite": "Vg 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=386"
+    },
+    "VK330": {
+        "ID": "VK330",
+        "CourseName": "Thermodynamics of Materials",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vc 209/210, Vp 140, Vv 215/255/285, and Vk 250",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=395"
+    },
+    "VM305": {
+        "ID": "VM305",
+        "CourseName": "Introduction to Finite Elements in Mechanical Engineering",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 211",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=400"
+    },
+    "VP390": {
+        "ID": "VP390",
+        "CourseName": "Modern Physics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vv 256/286 and Vp 240/260",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=223"
+    },
+    "VR318": {
+        "ID": "VR318",
+        "CourseName": "Modern PhysicsScience Fiction",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100/Vy 200",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=409"
+    },
+    "VX351": {
+        "ID": "VX351",
+        "CourseName": "Advanced Branding and Brand Management",
+        "Instructor": "",
+        "Credit": "2",
+        "Pre-requisite": "Branding and Brand Management",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=420"
+    },
+    "VY322": {
+        "ID": "VY322",
+        "CourseName": "Literary Translation",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100/200",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=421"
+    },
+    "VE401": {
+        "ID": "VE401",
+        "CourseName": "Probabilistic Methods in Engineering",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv 156/255/256 or Vv 186/285/286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=422"
+    },
+    "VG496": {
+        "ID": "VG496",
+        "CourseName": "Professional Ethics",
+        "Instructor": "",
+        "Credit": "2",
+        "Pre-requisite": "Vg100, Junior or Senior standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=454"
+    },
+    "VK480": {
+        "ID": "VK480",
+        "CourseName": "Materials and Engineering Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Senior standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=455"
+    },
+    "VM412": {
+        "ID": "VM412",
+        "CourseName": "Advanced Strength of Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 311",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=457"
+    },
+    "VR440": {
+        "ID": "VR440",
+        "CourseName": "Chinese Legal History",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=474"
+    },
+    "VV417": {
+        "ID": "VV417",
+        "CourseName": "Linear Algebra",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv216/256/286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=475"
+    },
+    "VX401": {
+        "ID": "VX401",
+        "CourseName": "Entrepreneurship",
+        "Instructor": "",
+        "Credit": "1",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=478"
+    },
+    "VE501": {
+        "ID": "VE501",
+        "CourseName": "Probability and Random Processes",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 401 Probabilistic Methods in Engineering or graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=292"
+    },
+    "VG500": {
+        "ID": "VG500",
+        "CourseName": "Technical Communication",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=339"
+    },
+    "VM505": {
+        "ID": "VM505",
+        "CourseName": "Finite Element Methods",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm211 Introduction to Solid Mechanics and Vm311 Strength of Materials",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=340"
+    },
+    "VV556": {
+        "ID": "VV556",
+        "CourseName": "Methods of Applied Mathematics I",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vv256 Applied Calculus IV, or Vv286 Honors Mathematics IV, or consent of instructor.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=489"
+    },
+    "VE650": {
+        "ID": "VE650",
+        "CourseName": "Coding Theory",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=293"
+    },
+    "VM641": {
+        "ID": "VM641",
+        "CourseName": "Advanced Methods of Vibration Analysis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 541 Mechanical Vibrations and Vm 543 Analytical and Computational Dynamics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=498"
+    },
+    "VG101": {
+        "ID": "VG101",
+        "CourseName": "Introduction to Computers and Programming",
+        "Instructor": "Manuel Charlemagne",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=74"
+    },
+    "VP141": {
+        "ID": "VP141",
+        "CourseName": "Physics Lab I",
+        "Instructor": "",
+        "Credit": "1",
+        "Pre-requisite": "Vp140 or Vp160",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=222"
+    },
+    "VR124": {
+        "ID": "VR124",
+        "CourseName": "Fashion, Fiction and Feminism",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=227"
+    },
+    "VV116": {
+        "ID": "VV116",
+        "CourseName": "Calculus II",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv115",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=231"
+    },
+    "VZ104": {
+        "ID": "VZ104",
+        "CourseName": "Introduction to Chinese Language",
+        "Instructor": "",
+        "Credit": "2",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=236"
+    },
+    "VC210": {
+        "ID": "VC210",
+        "CourseName": "Chemistry",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "3 years high school math, high school chemistry",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=238"
+    },
+    "VE215": {
+        "ID": "VE215",
+        "CourseName": "Introduction to Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv 156 or Vv 186 , Vg 101, accompanied or preceded by Vp240 (or Vp260)",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=242"
+    },
+    "VK250": {
+        "ID": "VK250",
+        "CourseName": "Principles of Engineering Materials",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vc 210",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=249"
+    },
+    "VM235": {
+        "ID": "VM235",
+        "CourseName": "Thermodynamics I",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vc 210 and Vv 156 or Vv 186",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=252"
+    },
+    "VP241": {
+        "ID": "VP241",
+        "CourseName": "Physics Lab II",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Vp140 or Vp160",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=256"
+    },
+    "VR203": {
+        "ID": "VR203",
+        "CourseName": "Food in Modern East Asian History",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=259"
+    },
+    "VV215": {
+        "ID": "VV215",
+        "CourseName": "Calculus III",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv116",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=282"
+    },
+    "VY223": {
+        "ID": "VY223",
+        "CourseName": "Creative Writing",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100 or Vy 200",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=289"
+    },
+    "VE311": {
+        "ID": "VE311",
+        "CourseName": "Electronic Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=387"
+    },
+    "VK335": {
+        "ID": "VK335",
+        "CourseName": "Kinetics and Transitions in Material Engineering",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv 216/256/286, Vk 250, and Vk 330",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=396"
+    },
+    "VM311": {
+        "ID": "VM311",
+        "CourseName": "Strength of Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 211 and Vv 256 or Vv 286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=401"
+    },
+    "VR320": {
+        "ID": "VR320",
+        "CourseName": "American Short Fiction",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "4 credits",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=410"
+    },
+    "VE406": {
+        "ID": "VE406",
+        "CourseName": "Applied Regression Analysis using R",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 401",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=423"
+    },
+    "VK489": {
+        "ID": "VK489",
+        "CourseName": "Materials Processing Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vk 330 and Vk 335",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=456"
+    },
+    "VM418": {
+        "ID": "VM418",
+        "CourseName": "Mechanics of Composite and Microstructured Media",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 382",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=458"
+    },
+    "VV454": {
+        "ID": "VV454",
+        "CourseName": "Boundary Value Problems for Partial Differential Equations",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Vv255 and Vv256; or Vv285 and Vv286; or permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=476"
+    },
+    "VX402": {
+        "ID": "VX402",
+        "CourseName": "Managing a Business",
+        "Instructor": "",
+        "Credit": "2",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=479"
+    },
+    "VE504": {
+        "ID": "VE504",
+        "CourseName": "Solid State Physics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=294"
+    },
+    "VM506": {
+        "ID": "VM506",
+        "CourseName": "Selected Topics in Nanotechnology",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None for grad students- Completion of Fundamental Math and Science courses",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=341"
+    },
+    "VV557": {
+        "ID": "VV557",
+        "CourseName": "Methods of Applied Mathematics II",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vv256 Applied Calculus IV, Vv286 Honors Mathematics IV, or consent of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=490"
+    },
+    "VE655": {
+        "ID": "VE655",
+        "CourseName": "Wireless Communication Theory",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=492"
+    },
+    "VM643": {
+        "ID": "VM643",
+        "CourseName": "Flexible Multibody Dynamics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 543 Analytical and Computational Dynamics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=499"
+    },
+    "VP160": {
+        "ID": "VP160",
+        "CourseName": "Honors Physics I",
+        "Instructor": "",
+        "Credit": "N",
+        "Pre-requisite": "Calculus I or equivalent training from high school",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=225"
+    },
+    "VR140": {
+        "ID": "VR140",
+        "CourseName": "Comparative Government and Politics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Sophomore or above, or instructor\u2019s permission",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=228"
+    },
+    "VV156": {
+        "ID": "VV156",
+        "CourseName": "Applied Calculus II",
+        "Instructor": "Olga Danilkina",
+        "Credit": "4",
+        "Pre-requisite": "having passed math placement test",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=232"
+    },
+    "VC211": {
+        "ID": "VC211",
+        "CourseName": "Chemistry Lab",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vc210",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=239"
+    },
+    "VE216": {
+        "ID": "VE216",
+        "CourseName": "Introduction to Signals and Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 215 and preceded or accompanied by Vv 256 or Vv 286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=243"
+    },
+    "VM240": {
+        "ID": "VM240",
+        "CourseName": "Introduction to Dynamics and Vibrations",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vp 140 or Vp 160, preceded or accompanied by Vv256 or Vv286.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=253"
+    },
+    "VP260": {
+        "ID": "VP260",
+        "CourseName": "Honors Physics II",
+        "Instructor": "",
+        "Credit": "N",
+        "Pre-requisite": "Vp 160",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=257"
+    },
+    "VR204": {
+        "ID": "VR204",
+        "CourseName": "Modern Asia \u2013 Colonialism, Anti-colonialism, and State Formation",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=260"
+    },
+    "VV216": {
+        "ID": "VV216",
+        "CourseName": "Calculus IV",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv215",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=283"
+    },
+    "VY240": {
+        "ID": "VY240",
+        "CourseName": "Introduction to Poetry",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=290"
+    },
+    "VE312": {
+        "ID": "VE312",
+        "CourseName": "Digital Integrated Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=388"
+    },
+    "VK350": {
+        "ID": "VK350",
+        "CourseName": "Principles of Engineering Materials II",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vk 250",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=397"
+    },
+    "VM320": {
+        "ID": "VM320",
+        "CourseName": "Fluid Mechanics I",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 235 and Vm 240 and Vv 256 or Vv 286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=402"
+    },
+    "VR334": {
+        "ID": "VR334",
+        "CourseName": "Performance Technology",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=411"
+    },
+    "VE411": {
+        "ID": "VE411",
+        "CourseName": "Microwave Circuits I",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 311 or Ve 330",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=424"
+    },
+    "VM421": {
+        "ID": "VM421",
+        "CourseName": "Thermal-Fluids Systems Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm235, Vm320, Vm335",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=459"
+    },
+    "VV471": {
+        "ID": "VV471",
+        "CourseName": "Introduction to Numerical Methods",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Vg101; and Vv256 or Vv286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=477"
+    },
+    "VX420": {
+        "ID": "VX420",
+        "CourseName": "Business Basics for Entrepreneurs",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=480"
+    },
+    "VE506": {
+        "ID": "VE506",
+        "CourseName": "Selected Topics in Nanotechnology",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None for grad students- Completion of Fundamental Math and Science courses",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=295"
+    },
+    "VM508": {
+        "ID": "VM508",
+        "CourseName": "Introduction to Soft Matter Physics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=342"
+    },
+    "VV570": {
+        "ID": "VV570",
+        "CourseName": "Introduction to Engineering Numerical Analysis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vv216, Vv216256, Vv216286, Vv216214",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=491"
+    },
+    "VE662": {
+        "ID": "VE662",
+        "CourseName": "Advanced Topics in Controls",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve562 Nonlinear System and Control",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=493"
+    },
+    "VM645": {
+        "ID": "VM645",
+        "CourseName": "Wave Propagation in Elastic Solids",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=500"
+    },
+    "VR160": {
+        "ID": "VR160",
+        "CourseName": "Introduction to World Politics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Sophomore or above",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=229"
+    },
+    "VV186": {
+        "ID": "VV186",
+        "CourseName": "Honors Mathematics II",
+        "Instructor": "Horst Harold Hohberger",
+        "Credit": "4",
+        "Pre-requisite": "having passed math placement test",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=233"
+    },
+    "VC230": {
+        "ID": "VC230",
+        "CourseName": "Honors Chemistry",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "3 years high school math, strong background in high school chemistry",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=240"
+    },
+    "VE230": {
+        "ID": "VE230",
+        "CourseName": "Electromagnetics I",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 215 , Vp 240 or Vp 260 , Vv 255 or Vv 285",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=244"
+    },
+    "VM250": {
+        "ID": "VM250",
+        "CourseName": "Design and Manufacturing I",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv 156 or Vv 186 , Vg 101 , and Vm 020 or Vm 010",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=254"
+    },
+    "VR205": {
+        "ID": "VR205",
+        "CourseName": "American Ways: US Culture",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=261"
+    },
+    "VV255": {
+        "ID": "VV255",
+        "CourseName": "Applied Calculus III",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv156, Vv186 or permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=284"
+    },
+    "VE320": {
+        "ID": "VE320",
+        "CourseName": "Introduction to Semiconductor Devices",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 215 , Vp 240 or Vp 260",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=389"
+    },
+    "VK360": {
+        "ID": "VK360",
+        "CourseName": "Materials Lab I",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "accompanied or preceded by Vk 350",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=398"
+    },
+    "VM335": {
+        "ID": "VM335",
+        "CourseName": "Heat Transfer",
+        "Instructor": "",
+        "Credit": "c",
+        "Pre-requisite": "Vm 320",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=403"
+    },
+    "VR340": {
+        "ID": "VR340",
+        "CourseName": "Shakespeare Studies",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=412"
+    },
+    "VE413": {
+        "ID": "VE413",
+        "CourseName": "Monolithic Amplifier Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 311 and Ve 320 or graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=425"
+    },
+    "VM432": {
+        "ID": "VM432",
+        "CourseName": "Combustion",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 235 and Vm 320",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=460"
+    },
+    "VX421": {
+        "ID": "VX421",
+        "CourseName": "Leadership and Technology Management",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=481"
+    },
+    "VE507": {
+        "ID": "VE507",
+        "CourseName": "Semiconductor Optoelectronic Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=296"
+    },
+    "VM509": {
+        "ID": "VM509",
+        "CourseName": "Battery Materials: Fundamentals and Applications",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=343"
+    },
+    "VE663": {
+        "ID": "VE663",
+        "CourseName": "Advanced topics in control II",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve562",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=494"
+    },
+    "VM648": {
+        "ID": "VM648",
+        "CourseName": "Nonlinear Oscillations and Stability",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 641 Advanced Methods of Vibration Analysis",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=501"
+    },
+    "VE270": {
+        "ID": "VE270",
+        "CourseName": "Introduction to Logic Design",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vg101 or equivalent",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=245"
+    },
+    "VR206": {
+        "ID": "VR206",
+        "CourseName": "China in the Early Modern World",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=262"
+    },
+    "VV256": {
+        "ID": "VV256",
+        "CourseName": "Applied Calculus IV",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv255, Vv285 or permission of instructors",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=285"
+    },
+    "VE330": {
+        "ID": "VE330",
+        "CourseName": "Electromagnetics II",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 230",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=390"
+    },
+    "VK365": {
+        "ID": "VK365",
+        "CourseName": "Materials Lab II",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vk 360",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=399"
+    },
+    "VM350": {
+        "ID": "VM350",
+        "CourseName": "Design and Manufacturing II",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vm 211 , Vm 240 , Vm 250 , preceded or accompanied by Vm 382",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=404"
+    },
+    "VR353": {
+        "ID": "VR353",
+        "CourseName": "American Culture",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=413"
+    },
+    "VE414": {
+        "ID": "VE414",
+        "CourseName": "Bayesian Analysis",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 401",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=426"
+    },
+    "VM433": {
+        "ID": "VM433",
+        "CourseName": "Advanced Energy Solution",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 235",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=461"
+    },
+    "VE508": {
+        "ID": "VE508",
+        "CourseName": "Nonlinear & Ultrafast Optics",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Ve 240 or 260 or 230",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=297"
+    },
+    "VM510": {
+        "ID": "VM510",
+        "CourseName": "Advanced Structural Analysis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm211 Introduction to Solid Mechanics and Vm311 Strength of Materials.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=344"
+    },
+    "VE666": {
+        "ID": "VE666",
+        "CourseName": "Millimeter-wave and Terahertz Wireless Communications",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve455 Digital Communication Signals and Systems, Ve489 Computer Networks, and/or good graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=495"
+    },
+    "VM660": {
+        "ID": "VM660",
+        "CourseName": "Engineering Decision Making",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve 401 Probabilistic Methods in Engineering or permission of the instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=502"
+    },
+    "VE280": {
+        "ID": "VE280",
+        "CourseName": "Programming and Introductory Data Structures",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv 156 or Vv 186 , and Vg101 or equivalent",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=246"
+    },
+    "VR208": {
+        "ID": "VR208",
+        "CourseName": "Business and Nature Environment",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vg 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=263"
+    },
+    "VV285": {
+        "ID": "VV285",
+        "CourseName": "Honors Mathematics III",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv186 or permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=286"
+    },
+    "VE334": {
+        "ID": "VE334",
+        "CourseName": "Principles of Optics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vp 240 or Vp 260",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=391"
+    },
+    "VM360": {
+        "ID": "VM360",
+        "CourseName": "Modeling, Analysis and Control of Dynamic Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vm 240",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=405"
+    },
+    "VR355": {
+        "ID": "VR355",
+        "CourseName": "Contemporary Moral Problems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=414"
+    },
+    "VE415": {
+        "ID": "VE415",
+        "CourseName": "Introduction to MEMS",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vv 216/256/286 and Vp 240",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=427"
+    },
+    "VM434": {
+        "ID": "VM434",
+        "CourseName": "Materials for Energy Conversion",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "3 credits",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=462"
+    },
+    "VE509": {
+        "ID": "VE509",
+        "CourseName": "Semiconductor Physics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Solid State Physics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=298"
+    },
+    "VM511": {
+        "ID": "VM511",
+        "CourseName": "Foundation of Solid Mechanics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm211 Introduction to Solid Mechanics and Vm311 Strength of Materials",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=345"
+    },
+    "VE689": {
+        "ID": "VE689",
+        "CourseName": "Wireless Networks",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve 455 Introduction to Digital Communications and Coding, Ve 489 Computer Communication Networks",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=496"
+    },
+    "VM695": {
+        "ID": "VM695",
+        "CourseName": "Doctoral Thesis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Approval of adviser.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=503"
+    },
+    "VE281": {
+        "ID": "VE281",
+        "CourseName": "Data Structures and Algorithms",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 203 and Ve 280",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=247"
+    },
+    "VR209": {
+        "ID": "VR209",
+        "CourseName": "The rise of scientific medicine: a global perspective",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=264"
+    },
+    "VV286": {
+        "ID": "VV286",
+        "CourseName": "Honors Mathematics IV",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv285 or permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=287"
+    },
+    "VE353": {
+        "ID": "VE353",
+        "CourseName": "Introduction to Communication Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=392"
+    },
+    "VM382": {
+        "ID": "VM382",
+        "CourseName": "Mechanical Behavior of Materials",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vm 211",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=406"
+    },
+    "VR363": {
+        "ID": "VR363",
+        "CourseName": "Chinese Society in Contemporary Chinese Cinema",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=415"
+    },
+    "VE420": {
+        "ID": "VE420",
+        "CourseName": "Physical Principles Underlying Smart Devices",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 320 or graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=428"
+    },
+    "VM440": {
+        "ID": "VM440",
+        "CourseName": "Intermediate Dynamics and Vibration",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vm 240",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=463"
+    },
+    "VE512": {
+        "ID": "VE512",
+        "CourseName": "Amorphous and Microcrystalline Semiconductor Thin Film Devices",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm211 Introduction to Solid Mechanics and Vm311 Strength of Materials",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=299"
+    },
+    "VM512": {
+        "ID": "VM512",
+        "CourseName": "Theory of Elasticity",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=346"
+    },
+    "VE695": {
+        "ID": "VE695",
+        "CourseName": "Doctoral Thesis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Approval of adviser.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=497"
+    },
+    "VM699": {
+        "ID": "VM699",
+        "CourseName": "Special topics in thermal and fluid science",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=504"
+    },
+    "VR222": {
+        "ID": "VR222",
+        "CourseName": "Great Books in World Literature",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=265"
+    },
+    "VE370": {
+        "ID": "VE370",
+        "CourseName": "Introduction to Computer Organization",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 270 and Ve280",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=393"
+    },
+    "VM384": {
+        "ID": "VM384",
+        "CourseName": "Engineering Project Management",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Senior Standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=407"
+    },
+    "VR364": {
+        "ID": "VR364",
+        "CourseName": "Literature and the Environment",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=416"
+    },
+    "VE427": {
+        "ID": "VE427",
+        "CourseName": "VLSI Design I",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 270 , Ve 312 and Ve 320",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=429"
+    },
+    "VM450": {
+        "ID": "VM450",
+        "CourseName": "Design and Manufacturing III",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vm 350, Vm 360 and Vm 395 . May not be taken concurrently with Vm495 or instructor\u2019s permission.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=464"
+    },
+    "VE515": {
+        "ID": "VE515",
+        "CourseName": "Electrical, Optical and Magnetic Properties of Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=300"
+    },
+    "VM513": {
+        "ID": "VM513",
+        "CourseName": "Continuum Mechanics",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Solid mechanics, Fluid Mechanics, Heat Transfer, Thermodynamics, Linear algebra",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=347"
+    },
+    "VR223": {
+        "ID": "VR223",
+        "CourseName": "Arabian Nights in British Literature",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=266"
+    },
+    "VE373": {
+        "ID": "VE373",
+        "CourseName": "Design of Microprocessor Based Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 270 and Ve 370 or instructor\u2019s permission",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=394"
+    },
+    "VM395": {
+        "ID": "VM395",
+        "CourseName": "Laboratory I",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vp 240 or Vp 260 , Vp 241 , Vm 211 , Vm 235 , and Vm 240 ; preceded or accompanied by Vm 320 and Vm 382",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=408"
+    },
+    "VR367": {
+        "ID": "VR367",
+        "CourseName": "Global Enterprise and Sustainable Development",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=417"
+    },
+    "VE434": {
+        "ID": "VE434",
+        "CourseName": "Principles of Photonics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 230 or Ve 334 or graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=430"
+    },
+    "VM452": {
+        "ID": "VM452",
+        "CourseName": "Design for Manufacturability",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 350",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=465"
+    },
+    "VE517": {
+        "ID": "VE517",
+        "CourseName": "Physical Processes in Plasmas",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve 230 Electromagnetics I and Ve 330 Electromagnetics II",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=301"
+    },
+    "VM514": {
+        "ID": "VM514",
+        "CourseName": "Non-Linear Fracture Mechanics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm311, Vv256",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=348"
+    },
+    "VR236": {
+        "ID": "VR236",
+        "CourseName": "Film Art and History",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=267"
+    },
+    "VR369": {
+        "ID": "VR369",
+        "CourseName": "Politics of International Economic Relations",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Sophomore or above",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=418"
+    },
+    "VE438": {
+        "ID": "VE438",
+        "CourseName": "Advanced Lasers and Optics Laboratory",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vp 240",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=431"
+    },
+    "VM458": {
+        "ID": "VM458",
+        "CourseName": "Automotive Engineering",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 350",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=466"
+    },
+    "VE520": {
+        "ID": "VE520",
+        "CourseName": "Electronic and Optical Properties of Semiconductors",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve 420",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=302"
+    },
+    "VM515": {
+        "ID": "VM515",
+        "CourseName": "Electrical, Optical and Magnetic Properties of Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=349"
+    },
+    "VR238": {
+        "ID": "VR238",
+        "CourseName": "British Empire and \u201cInformal\u201d Imperialism in the Nineteenth-Century",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=268"
+    },
+    "VR380": {
+        "ID": "VR380",
+        "CourseName": "Topics in Asian Studies: Political and Economic Development in Pacific Asia",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Sophomore or above, or instructors permission",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=419"
+    },
+    "VE449": {
+        "ID": "VE449",
+        "CourseName": "Mobile Applications for Entrepreneurs",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve281 and Ve370",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=432"
+    },
+    "VM461": {
+        "ID": "VM461",
+        "CourseName": "Automatic Control",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm 360",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=467"
+    },
+    "VE521": {
+        "ID": "VE521",
+        "CourseName": "High Speed Transistors",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 421 Properties of Transistors",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=303"
+    },
+    "VM516": {
+        "ID": "VM516",
+        "CourseName": "Energy Methods in Solid Mechanics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm211 Introduction to Solid Mechanics and Vm311 Strength of Materials",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=350"
+    },
+    "VR241": {
+        "ID": "VR241",
+        "CourseName": "Comparative Literature: Fairy Tales",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 200 or Vy 125 or equivalent",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=269"
+    },
+    "VE450": {
+        "ID": "VE450",
+        "CourseName": "Capstone Design",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve216, Ve280, Ve311, and senior standing or instructor\u2019s permission",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=433"
+    },
+    "VM466": {
+        "ID": "VM466",
+        "CourseName": "Statistical Quality Control",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=468"
+    },
+    "VE522": {
+        "ID": "VE522",
+        "CourseName": "Analog Integrated Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve413 Monolithic Amplifier Circuits",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=304"
+    },
+    "VM517": {
+        "ID": "VM517",
+        "CourseName": "Mechanical Properties of Polymers",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Me211",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=351"
+    },
+    "VR242": {
+        "ID": "VR242",
+        "CourseName": "Happiness and the Meaning of Life",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100/200",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=270"
+    },
+    "VE451": {
+        "ID": "VE451",
+        "CourseName": "Digital Signal Processing and Analysis",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=434"
+    },
+    "VM467": {
+        "ID": "VM467",
+        "CourseName": "Introduction to Robotics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm240 or Ve216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=469"
+    },
+    "VE523": {
+        "ID": "VE523",
+        "CourseName": "Digital Integrated Technology",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve423 or Ve425 and Ve311 Electronic Circuits and Ve320 Introduction to Semiconductor Devices",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=305"
+    },
+    "VM518": {
+        "ID": "VM518",
+        "CourseName": "Advanced Mechanics of Composite Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm382",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=352"
+    },
+    "VR246": {
+        "ID": "VR246",
+        "CourseName": "Introduction to Comics and Graphic Novels",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=271"
+    },
+    "VE452": {
+        "ID": "VE452",
+        "CourseName": "Digital Signal Processing Design Laboratory",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 280 and Ve 216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=435"
+    },
+    "VM481": {
+        "ID": "VM481",
+        "CourseName": "Manufacturing Processes",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm382",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=470"
+    },
+    "VE525": {
+        "ID": "VE525",
+        "CourseName": "Advanced Solid State Microwave Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve330 Electromagnetics II and Ve421 Properties of Transistors or Ve521 High Speed Transistors",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=306"
+    },
+    "VM519": {
+        "ID": "VM519",
+        "CourseName": "Theory of Plasticity",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm211 Introduction to Solid Mechanics and Vm311 Strength of Materials",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=353"
+    },
+    "VR253": {
+        "ID": "VR253",
+        "CourseName": "Culture\uff0cTechnology and Silicon Valley",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100, Vy200",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=272"
+    },
+    "VE455": {
+        "ID": "VE455",
+        "CourseName": "Digital Communication Signals and Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 216 and Ve 401",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=436"
+    },
+    "VM482": {
+        "ID": "VM482",
+        "CourseName": "Machining Process",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "VM382",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=471"
+    },
+    "VE527": {
+        "ID": "VE527",
+        "CourseName": "Computer-Aided Design of Integrated Circuits",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve281 Data Structures and Algorithm or graduate standing, Ve312 Digital Integrated Circuits",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=307"
+    },
+    "VM520": {
+        "ID": "VM520",
+        "CourseName": "Advanced Fluid Mechanics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=354"
+    },
+    "VR258": {
+        "ID": "VR258",
+        "CourseName": "The History of Modern China\u2019s Foreign Relations",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=273"
+    },
+    "VE458": {
+        "ID": "VE458",
+        "CourseName": "Biomedical Instrumentation and Design",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 215",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=437"
+    },
+    "VM490": {
+        "ID": "VM490",
+        "CourseName": "Undergraduate Research",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "junior standing and up",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=472"
+    },
+    "VE530": {
+        "ID": "VE530",
+        "CourseName": "Electromagnetic Theory I",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "None",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=308"
+    },
+    "VM521": {
+        "ID": "VM521",
+        "CourseName": "Compressible Flow",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=355"
+    },
+    "VR259": {
+        "ID": "VR259",
+        "CourseName": "Memory: A New Approach to China\u2019s 20th Century History",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vy 100",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=274"
+    },
+    "VE460": {
+        "ID": "VE460",
+        "CourseName": "Control Systems Analysis and Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve 216",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=438"
+    },
+    "VM495": {
+        "ID": "VM495",
+        "CourseName": "Laboratory II",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vm 395 , preceded or accompanied by Vm 350 and Vm 360. May not be taken concurrently with Vm450 or instructor\u2019s permission.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=473"
+    },
+    "VE531": {
+        "ID": "VE531",
+        "CourseName": "Antenna Theories and Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve530 Electromagnetic Theory I",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=309"
+    },
+    "VM523": {
+        "ID": "VM523",
+        "CourseName": "Computational Fluid Dynamics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm320 Fluid Mechanics I",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=356"
+    },
+    "VR260": {
+        "ID": "VR260",
+        "CourseName": "Introduction to Chinese Civilization",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=275"
+    },
+    "VE461": {
+        "ID": "VE461",
+        "CourseName": "Embedded Control Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 216 or Ve 373 or Graduate Standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=439"
+    },
+    "VE534": {
+        "ID": "VE534",
+        "CourseName": "Optics and Photonics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve 434 Principles of Photonics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=310"
+    },
+    "VM524": {
+        "ID": "VM524",
+        "CourseName": "Turbulence",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Fluid mechanics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=357"
+    },
+    "VR262": {
+        "ID": "VR262",
+        "CourseName": "Introduction to the Philosophy of Religion",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=276"
+    },
+    "VE470": {
+        "ID": "VE470",
+        "CourseName": "Computer Architecture",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve270 and Ve370, or Graduate Standing.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=440"
+    },
+    "VE535": {
+        "ID": "VE535",
+        "CourseName": "Optical Information Processing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=311"
+    },
+    "VM527": {
+        "ID": "VM527",
+        "CourseName": "Multi-phase Flow",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=358"
+    },
+    "VR265": {
+        "ID": "VR265",
+        "CourseName": "Culture\uff0cTechnology and Silicon Valley",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Academic Writing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=277"
+    },
+    "VE475": {
+        "ID": "VE475",
+        "CourseName": "Introduction to Cryptography",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve203 and Ve280",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=441"
+    },
+    "VE536": {
+        "ID": "VE536",
+        "CourseName": "Classical Statistical Optics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve334 Principles of Optics, Ve434 Principles of Photonics, and Ve401 Probabilistic Methods in Engineering",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=312"
+    },
+    "VM528": {
+        "ID": "VM528",
+        "CourseName": "Experimental Methods in Multi-phase Flow",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=359"
+    },
+    "VR275": {
+        "ID": "VR275",
+        "CourseName": "The Western Mind in Revolution",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=278"
+    },
+    "VE477": {
+        "ID": "VE477",
+        "CourseName": "Introduction to Algorithms",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve281 or graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=442"
+    },
+    "VE538": {
+        "ID": "VE538",
+        "CourseName": "Optical Waves in Crystals",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve434 Principles of Photonics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=313"
+    },
+    "VM530": {
+        "ID": "VM530",
+        "CourseName": "Advanced Heat Transfer",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve330 Electromagnetics II (NB: Course for graduate programs, but open to undergraduate students as well)",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=360"
+    },
+    "VR290": {
+        "ID": "VR290",
+        "CourseName": "Home and Homeland in Asian American Literature",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=279"
+    },
+    "VE478": {
+        "ID": "VE478",
+        "CourseName": "Logic Circuit Synthesis and Optimization",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "(Ve 203, Ve 270 and Senior Standing) or Graduate Standing.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=443"
+    },
+    "VE539": {
+        "ID": "VE539",
+        "CourseName": "Lasers",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=314"
+    },
+    "VM531": {
+        "ID": "VM531",
+        "CourseName": "Advanced Conduction and Radiation Heat Transfer",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=361"
+    },
+    "VR291": {
+        "ID": "VR291",
+        "CourseName": "The Otherworlds of Fantasy",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vy 100/Vy 200",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=280"
+    },
+    "VE482": {
+        "ID": "VE482",
+        "CourseName": "Introduction to Operating Systems",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve281 and Ve370 or Graduate Standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=444"
+    },
+    "VE540": {
+        "ID": "VE540",
+        "CourseName": "Applied Quantum Mechanics I",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=315"
+    },
+    "VM532": {
+        "ID": "VM532",
+        "CourseName": "Advanced Convection",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Thermodynamics, Heat transfer, fluid mechanics",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=362"
+    },
+    "VE483": {
+        "ID": "VE483",
+        "CourseName": "Compiler Construction",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 281 or Graduate Standing.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=445"
+    },
+    "VE541": {
+        "ID": "VE541",
+        "CourseName": "Applied Quantum Mechanics II",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve540 Applied Quantum Mechanics I",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=316"
+    },
+    "VM535": {
+        "ID": "VM535",
+        "CourseName": "Thermodynamics III",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=363"
+    },
+    "VE484": {
+        "ID": "VE484",
+        "CourseName": "Data Mining",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Background on a programming language",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=446"
+    },
+    "VE550": {
+        "ID": "VE550",
+        "CourseName": "Information Theory",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=317"
+    },
+    "VM540": {
+        "ID": "VM540",
+        "CourseName": "Advanced Methods of Vibration Analysis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm440 Intermediate Dynamics and Vibration",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=364"
+    },
+    "VE487": {
+        "ID": "VE487",
+        "CourseName": "Interactive Computer Graphics",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 281 or graduate standing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=447"
+    },
+    "VE551": {
+        "ID": "VE551",
+        "CourseName": "Mathematical Methods for Signal Processing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve501 Probability and Random Processes",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=318"
+    },
+    "VM541": {
+        "ID": "VM541",
+        "CourseName": "Mechanical Vibrations",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm440 Intermediate Dynamics and Vibration",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=365"
+    },
+    "VE488": {
+        "ID": "VE488",
+        "CourseName": "Data Mining and Machine Learning",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Vv 214/Vv 286 and Ve 401",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=448"
+    },
+    "VE552": {
+        "ID": "VE552",
+        "CourseName": "Fiber Optics and Biomedical Optics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=319"
+    },
+    "VM543": {
+        "ID": "VM543",
+        "CourseName": "Analytical Dynamics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm440 Intermediate Dynamics and Vibration",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=366"
+    },
+    "VE489": {
+        "ID": "VE489",
+        "CourseName": "Computer Networks",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve482 or Graduate Standing or instructor\u2019s permission.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=449"
+    },
+    "VE554": {
+        "ID": "VE554",
+        "CourseName": "Introduction to Digital Communication and Coding",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve216 and Ve401",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=320"
+    },
+    "VM551": {
+        "ID": "VM551",
+        "CourseName": "Mechanisms Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm350 Design and Manufacturing II",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=373"
+    },
+    "VE490": {
+        "ID": "VE490",
+        "CourseName": "Undergraduate Research",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "junior standing and up",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=450"
+    },
+    "VE555": {
+        "ID": "VE555",
+        "CourseName": "Digital Communication Theory",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve455 Introduction to Digital Communication and Coding",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=321"
+    },
+    "VM552": {
+        "ID": "VM552",
+        "CourseName": "Mechatronic System Design",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm360 and Vm461",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=374"
+    },
+    "VE492": {
+        "ID": "VE492",
+        "CourseName": "Introduction to Artificial Intelligence",
+        "Instructor": "",
+        "Credit": "4",
+        "Pre-requisite": "Ve 281",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=451"
+    },
+    "VE556": {
+        "ID": "VE556",
+        "CourseName": "Image Processing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve551 Mathematical Methods for Signal Processing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=322"
+    },
+    "VM553": {
+        "ID": "VM553",
+        "CourseName": "Simulation of a Mechatronic Machine",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm440 Intermediate Dynamics and Vibration",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=375"
+    },
+    "VE496": {
+        "ID": "VE496",
+        "CourseName": "Advanced Technical Communication",
+        "Instructor": "",
+        "Credit": "2",
+        "Pre-requisite": "Ve300, must be taken concurrently with a Major Design Experience course or Capstone Design course(Ve450).",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=452"
+    },
+    "VE559": {
+        "ID": "VE559",
+        "CourseName": "Advanced Signal Processing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve551 Mathematical Methods for Signal Processing",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=323"
+    },
+    "VM554": {
+        "ID": "VM554",
+        "CourseName": "Computer Aided Design Methods",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm350 Design and Manufacturing II",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=376"
+    },
+    "VE498": {
+        "ID": "VE498",
+        "CourseName": "Special Topics",
+        "Instructor": "",
+        "Credit": "1",
+        "Pre-requisite": "Permission of instructor.",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=453"
+    },
+    "VE560": {
+        "ID": "VE560",
+        "CourseName": "Linear Systems",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm461 or Ve460 (NB: Course for graduate programs, but open to undergraduate students as well)",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=324"
+    },
+    "VM555": {
+        "ID": "VM555",
+        "CourseName": "Engineering Optimization",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vv256 Applied Calculus IV or Vv286 Honors Mathematics IV (NB: Course for graduate programs, but open to undergraduate students as well)",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=377"
+    },
+    "VE562": {
+        "ID": "VE562",
+        "CourseName": "Nonlinear Systems and Control",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=325"
+    },
+    "VM560": {
+        "ID": "VM560",
+        "CourseName": "Linear Systems",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm461 or Ve460 (NB: Course for graduate programs, but open to undergraduate students as well)",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=378"
+    },
+    "VE570": {
+        "ID": "VE570",
+        "CourseName": "Parallel Computer Architecture",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve470 Computer Architecture",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=326"
+    },
+    "VM564": {
+        "ID": "VM564",
+        "CourseName": "Linear Systems",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=482"
+    },
+    "VE571": {
+        "ID": "VE571",
+        "CourseName": "Principles of Real-Time Computing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve470 Computer Architecture and Ve482 Introduction to Operating Systems",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=327"
+    },
+    "VM565": {
+        "ID": "VM565",
+        "CourseName": "Structural, Physical and Chemical Characterization of Materials",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=483"
+    },
+    "VE572": {
+        "ID": "VE572",
+        "CourseName": "Methods and Tools for Big Data",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve401 and Ve482",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=328"
+    },
+    "VM567": {
+        "ID": "VM567",
+        "CourseName": "Introduction to Robotics",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm240 Introduction to Dynamics and Vibrations and Vm360 Modeling, Analysis and Control of Dynamic Systems, or instructor permission",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=484"
+    },
+    "VE573": {
+        "ID": "VE573",
+        "CourseName": "Microarchitecture",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve470 Computer Architecture",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=329"
+    },
+    "VM583": {
+        "ID": "VM583",
+        "CourseName": "Manufacturing Processes and Systems",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm250 Design and Manufacturing I, or consent of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=485"
+    },
+    "VE578": {
+        "ID": "VE578",
+        "CourseName": "Computer-Aided Design Verification of Digital Systems",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve478 Logic Circuit Synthesis",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=330"
+    },
+    "VM584": {
+        "ID": "VM584",
+        "CourseName": "Control of Manufacturing Systems",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Vm461 Automatic Control, or equivalent",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=486"
+    },
+    "VE579": {
+        "ID": "VE579",
+        "CourseName": "Digital System Testing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve281 Data Structures and Algorithms",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=331"
+    },
+    "VM586": {
+        "ID": "VM586",
+        "CourseName": "Laser Materials Processing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Permission of instructor",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=487"
+    },
+    "VE582": {
+        "ID": "VE582",
+        "CourseName": "Advanced Operating Systems",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve482 Introduction to Operating Systems",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=332"
+    },
+    "VM595": {
+        "ID": "VM595",
+        "CourseName": "Master Thesis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Approval of adviser",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=488"
+    },
+    "VE586": {
+        "ID": "VE586",
+        "CourseName": "Advanced Computer Networks",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve489 Computer Communication Networks",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=333"
+    },
+    "VE587": {
+        "ID": "VE587",
+        "CourseName": "Parallel Computing",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Ve281 Data Structures and Algorithms",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=334"
+    },
+    "VE588": {
+        "ID": "VE588",
+        "CourseName": "Computer and Network Security",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=335"
+    },
+    "VE589": {
+        "ID": "VE589",
+        "CourseName": "Data Networks and Queuing Theory",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=336"
+    },
+    "VE593": {
+        "ID": "VE593",
+        "CourseName": "Problem Solving with AI Techniques",
+        "Instructor": "",
+        "Credit": "",
+        "Pre-requisite": "Necessary computer science and mathematical background covered in VE281, VE203, VV216/256/286",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=337"
+    },
+    "VE595": {
+        "ID": "VE595",
+        "CourseName": "Master Thesis",
+        "Instructor": "",
+        "Credit": "3",
+        "Pre-requisite": "Approval of adviser",
+        "Reference": "https://www.ji.sjtu.edu.cn/academics/courses/courses-by-number/course-info/?id=338"
+    }
+}
