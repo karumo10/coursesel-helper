@@ -35,7 +35,6 @@ class CourseSearcher extends React.Component {
             isClicked: false
         };
         this.handleChange = this.handleChange.bind(this);
-        this.handleClick = this.handleClick.bind(this);
     }
     handleChange(event) {
         const target = event.target;
@@ -45,16 +44,10 @@ class CourseSearcher extends React.Component {
             [name]: value
         });
     }
-    handleClick() {
-        this.setState(state => ({
-            isClicked: state.isClicked ? state.isClicked : !state.isClicked
-        })
-        );
-    }
     render() {
         const interactEle =
             <div>
-                <label for="course-request-input">Input the course you want to search: </label>
+                <label for="course-request-input">🔍</label>
                 <input
                     id="course-request-input"
                     name="courseName"
@@ -62,9 +55,6 @@ class CourseSearcher extends React.Component {
                     value={this.state.value}
                     onChange={this.handleChange}
                 />
-                <button onClick={this.handleClick}>
-                    {'Search!'}
-                </button>
             </div>;
         return (
             <div>
