@@ -3,17 +3,7 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import ReactFlow from 'react-flow-renderer';
 
-function SearchingCourse(props) {
-    const courseName = props.courseName;
-    const courseObj = data[courseName];
-    if (courseObj === undefined) {
-        return <h1>Cannot find course {courseName}!</h1>
-    } else {
-        // console.log(courseObj);
-        return <DisplayCourseDetail courseObj={courseObj} />
-    }
-}
-
+// courseObj => <div>course element</div>
 function DisplayCourseDetail(props) {
     const courseObj = props.courseObj;
     return (
@@ -26,6 +16,34 @@ function DisplayCourseDetail(props) {
         </div>
     )
 }
+
+// courseName => courseObj
+function SearchingCourse(props) {
+    const courseName = props.courseName;
+    const courseObj = data[courseName];
+    if (courseObj === undefined) {
+        return <h1>Cannot find course {courseName}!</h1>
+    } else {
+        return <DisplayCourseDetail courseObj={courseObj} />
+    }
+}
+
+
+
+// queryName => <div>quested courseObjs elements</div>
+function SearchingCoursesFuzzily(props) {
+    const queryName = props.queryName;
+    const allCoursesArray = (Object.entries(data));
+    const courseArray = allCoursesArray.filter(x => x[0].includes(queryName));
+    return (
+        <div>
+            {
+                courseArray.map(course => <DisplayCourseDetail courseObj={course[1]} />)
+            }
+        </div>
+    )
+}
+
 
 class CourseSearcher extends React.Component {
     constructor(props) {
@@ -59,7 +77,8 @@ class CourseSearcher extends React.Component {
         return (
             <div>
                 {interactEle} <br></br>
-                <SearchingCourse courseName={this.state.courseName} />
+                {/* <SearchingCourse courseName={this.state.courseName} /> */}
+                <SearchingCoursesFuzzily queryName={this.state.courseName}/>
             </div>
             
         )
