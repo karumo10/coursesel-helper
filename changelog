@@ -1,0 +1,5 @@
+2021/5/12 Initialize
+2021/5/12 14:47
+    Support fuzzy search.
+    Input part of the course number, immediately the App will give you all courses whose course numbers includes your input.
+    For example: input 'VG10', you will see the information about VG100 and VG101.
