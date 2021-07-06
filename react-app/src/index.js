@@ -2,12 +2,13 @@ import data from './data/courseDetails.json'
 import ReactDOM from 'react-dom';
 import React from 'react';
 import ReactFlow from 'react-flow-renderer';
+import './index.css';
 
 // courseObj => <div>course element</div>
 function DisplayCourseDetail(props) {
     const courseObj = props.courseObj;
     return (
-        <div>
+        <div class="course">
             <h1>{courseObj.ID} - {courseObj.CourseName}</h1>
             <h2>Instructor: {courseObj.Instructor}</h2>
             <h2>Credit: {courseObj.Credit}</h2>
@@ -36,7 +37,7 @@ function SearchingCoursesFuzzily(props) {
     const allCoursesArray = (Object.entries(data));
     const courseArray = allCoursesArray.filter(x => x[0].includes(queryName));
     return (
-        <div>
+        <div class="showing-courses">
             {
                 courseArray.map(course => <DisplayCourseDetail courseObj={course[1]} />)
             }
@@ -64,8 +65,8 @@ class CourseSearcher extends React.Component {
     }
     render() {
         const interactEle =
-            <div>
-                <label for="course-request-input">🔍</label>
+            <div class="searchingBox">
+                <label id="searching-hint" for="course-request-input">🔍</label>
                 <input
                     id="course-request-input"
                     name="courseName"
@@ -75,8 +76,8 @@ class CourseSearcher extends React.Component {
                 />
             </div>;
         return (
-            <div>
-                {interactEle} <br></br>
+            <div class="left">
+                {interactEle} 
                 {/* <SearchingCourse courseName={this.state.courseName} /> */}
                 <SearchingCoursesFuzzily queryName={this.state.courseName}/>
             </div>
