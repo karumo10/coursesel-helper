@@ -13,7 +13,7 @@ function DisplayCourseDetail(props) {
             <h2>Instructor: {courseObj.Instructor}</h2>
             <h2>Credit: {courseObj.Credit}</h2>
             <h2>Pre-requisite: {courseObj["Pre-requisite"]}</h2>
-            <text>More information: {courseObj.Reference}</text>
+            <a href={courseObj.Reference}>▶More...</a>
         </div>
     )
 }
@@ -34,15 +34,26 @@ function SearchingCourse(props) {
 // queryName => <div>quested courseObjs elements</div>
 function SearchingCoursesFuzzily(props) {
     const queryName = props.queryName;
-    const allCoursesArray = (Object.entries(data));
+    const allCoursesArray = (Object.entries(data)); // return [[key1, value1], [key2, value2]...]
     const courseArray = allCoursesArray.filter(x => x[0].includes(queryName));
-    return (
-        <div class="showing-courses">
-            {
-                courseArray.map(course => <DisplayCourseDetail courseObj={course[1]} />)
-            }
-        </div>
-    )
+    const notFound = courseArray.length == 0;
+    if (!notFound) {
+        return (
+            <div class="showing-courses">
+                {courseArray.map(course => <DisplayCourseDetail courseObj={course[1]} />)}
+            </div>  
+        )
+    } else {
+        return (
+            <div class="not-found">
+                <ul>Sorry, but no courses found. Please ensure you:
+                    <li>    Use capital letter</li>
+                    <li>    Spell correctly</li>
+                    Or probably this course has not be included by this website yet.
+                </ul>
+            </div>
+        )
+    }
 }
 
 
@@ -78,7 +89,6 @@ class CourseSearcher extends React.Component {
         return (
             <div class="left">
                 {interactEle} 
-                {/* <SearchingCourse courseName={this.state.courseName} /> */}
                 <SearchingCoursesFuzzily queryName={this.state.courseName}/>
             </div>
             

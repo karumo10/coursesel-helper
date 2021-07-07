@@ -14,11 +14,6 @@ body {
 	
 }
 
-.course > h1, h2 {
-	font-size: 1em;
-	margin-top: 0.1em;
-	margin-bottom: 0.1em;
-}
 
 #course-request-input {
 	outline: none;
@@ -43,6 +38,9 @@ body {
 	background-color: rgba(166, 204, 216, 0.2);
 	border-top-right-radius: 16pt;
 	border-bottom-right-radius: 16pt;
+	border-top: 1.2pt solid rgba(24, 44, 95, 0.774);
+	border-bottom: 1.2pt solid rgba(24, 44, 95, 0.774);
+	border-right: 1.2pt solid rgba(24, 44, 95, 0.774);
 	
 	grid-row: 2;
 	grid-column: 1/2;
@@ -76,7 +74,40 @@ body {
 	background-color: rgba(24,44,95,0.08);
 }
 
+.course > h1, h2 {
+	font-size: 1em;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+}
 
+.course > a {
+	float: center;
+	margin-left: 450px;
+	color:#000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.course > a {
+	float: center;
+	margin-left: 450px;
+	color:#000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.course > a:hover {
+	color:rgba(239, 205, 35);
+} 
+
+.not-found {
+	font-size: 1em;
+}
+
+.not-found > ul > li {
+	list-style-type: '🐈 ';
+	margin-left: 2em;
+}
 
 
 code {
